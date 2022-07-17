@@ -37,7 +37,10 @@ html{
     margin-top: 10px;
     padding: 20px;
   }
-  
+
+   small{
+       text-align:center;
+}
   @media (min-width: 500px){
     .footer{
       font-size: 3vw;
