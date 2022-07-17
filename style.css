@@ -32,17 +32,12 @@ html{
   
   .JA {
     text-align: left;
-    font-size: 7vw;
+    font-size: 4vw;
     font-weight: 300;
     margin-top: 10px;
     padding: 20px;
   }
 
    footer{
-       text-align:center;
+     text-align:center;
 }
-  @media (min-width: 500px){
-    .footer{
-      font-size: 3vw;
-    }
-  }
